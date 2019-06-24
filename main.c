@@ -141,7 +141,7 @@ void usage(void)
     printf("    --help\n");
     printf("    -i             report functions that accept external input\n");
     printf("    --input\n");
-    printf("    -l <language>  force the specified langauge to be used\n");
+    printf("    -l <language>  force the specified language to be used\n");
     printf("    --language <language>\n");
     printf("    -r             include references that are not function calls\n");
     printf("    --references\n");
